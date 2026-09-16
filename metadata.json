@@ -1,0 +1,8 @@
+{
+  "name": "Kantera",
+  "description": "Kantera - AI Basketball Training & Vision Tracking",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
